@@ -25,8 +25,6 @@ A standardized RAG pipeline for benchmarking open-source components. The project
 2. Ensure required Python packages are installed (install per-notebook or add a `requirements.txt` if needed).
 3. Place your documents in `english_dataset` or `german_dataset` and run the preprocessing/crafting cells in the notebook.
 
-If you want, I can add a `requirements.txt` or brief run instructions per-notebook next.
-
 **Dependencies**
 
 - A `requirements.txt` is included for common Python dependencies; install with `pip install -r requirements.txt`.
