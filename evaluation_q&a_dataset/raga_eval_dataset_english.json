@@ -1,0 +1,209 @@
+[
+    {
+        "query": "When does winter semester start for the course AI-Driven Supply Chain Management?",
+        "ground_truth": "The winter semester for the course AI starts on May 1 for EU students and April 15 for Non-EU students."   
+    },
+    {
+        "query": "what are Language requirements for the course AI-Driven Supply Chain Management?",
+        "ground_truth": "You need to prove your proficiency in English.This can be done with either of the following: TOEFL minimum 90 IELTS 6.5 or above In addition:Basic language skills in German, proven by official test score documents -minimum level A1"   
+    },
+    {
+        "query": "what are academic requirements for the course AI-Driven Supply Chain Management?",
+        "ground_truth": "Abusiness-oriented Bachelors degree(e.g. Business Management, International Management, Industrial Engineering or Business Informatics) from an accredited university; at least210 ECTSor equivalent (depending on home country) in total and with a minimum ofat least 110 ECTS in business-related subjects minimum grade 2,5according to the German grading system (please provide a diploma supplement or similar documents that explain the grading system of your university/country)"   
+    },
+    {
+        "query": "who is Head of Program for Master in Applied Psychology ?",
+        "ground_truth": "Head of Program Student Counseling Student Affairs - Program Manager Prof. Dr. Robin Müller Thursday: 13:00 - 14:00 Doreen Rustler Holger Edelmann"   
+    }, 
+    {
+        "query": "which are Mandatory Modules for Master in Applied Research for Computer Science?",
+        "ground_truth": "New Technologies in Computer Science, Design Science Approaches in Computer Science Research, Behavioral Approaches in Computer Science Research, Designing and Developing Business Models, Project Seminar Research Project"   
+    },
+    {
+        "query": "After graduation, i should expect work in which domain for Bachelor in Communication Design program?",
+        "ground_truth": "After graduation, you will work, for example, in the fields of communication, media, culture,research and development as well as public relations and business as:Interaction Designer,Graphic Designer,Exhibition Designer,Art Director,Creative Director,UX Designer, Information Designer"
+    },
+    {
+        "query": "What is the aim of the Master's program in Artificial Intelligence Aided Mobility Design?",
+        "ground_truth": "This Master’s program aims to developversatile designers who thrive at the intersection of design and technology. By integrating AI-based tools into the design process, students acquire a balanced skill set that enhances both creative vision and technical precision. Realistic, future-oriented projects are at the core of this program, giving studentshands-on experience in collaboration with industry, policymakers, and academic partners inshaping sustainable mobility solutions. This focus on interdisciplinary work empowers graduates to confidently lead innovationin a rapidly evolving, tech-driven design landscape. This program equips you with a future-proof skill set, preparing you to be a designer who cansuccessfully bridge design and engineering. You will become proficient in cutting-edge AItechniques, preparing you to develop innovative and sustainable solutions for complex challenges."
+    },
+    {
+        "query": "What should I expect in the Artificial Intelligence and Robotics program?",
+        "ground_truth": "You will learn how to design intelligent robotics solutions and deepen your skills through practical exercises in various modules. With our Master's degree in Artificial Intelligence and Robotics, you will develop an in-depth understanding in the fields of AI and intelligent robotics and learn about state of the art algorithms"
+    },
+    {
+        "query": "What is the course work for semester 5 of course Bachelor in Business Administration?",
+        "ground_truth": " Semester 5 - 6:Area of specialization - Choose from 7 specialization areas: Now you have a choice. You can choose one field of study, or compose your study program according to your own interests from different fields of study. You will also complete a full semester in a company or organization of your choice and gain practical experience. You are free to choose the time for this as part of your specialization studies."
+    },
+    {
+        "query": "What is the focus of the Master's program in Applied Psychology?",
+        "ground_truth": "The focus of the Master's program in Advanced Psychology is on practical questions relating to human behavior (including consumer behavior, behavior in groups, leadership behavior) from the business world, which are answered in an application-oriented and scientifically sound manner."
+    },
+    {
+        "query": "What does the Business Administration program provide regarding interdisciplinary skills?",
+        "ground_truth": "That is why we also take care of your interdisciplinary skills, such as comprehensive digitalization, IT and sustainability skills, project management skills by integrating cross-faculty and international projects into the teaching modules, or presentation and communication skills through cross-module collaborations and teamwork."
+    },
+    {
+        "query": "What does the study program for Applied Research in Computer Science consist of?",
+        "ground_truth": "The study program consists of work in research projects of the research groups at the Institute of Information Systems (iisys), special lectures in research methodology as well as lectures in computer science subjects, organization science and business law.There will be a good mixture of practical work like programming, training of social skills in meetings and by giving presentations as well as conceptual work like creating architecture models, doing criteria-based comparisons or literature reviews to find suitable algorithms and research approaches."
+    },
+    {
+        "query": "What qualification does the Business Law program provide?",
+        "ground_truth": "The Business Law program provides students with the professional and interdisciplinary qualification for responsible legal work in large and medium-sized companies as well as in associations and organizations. The course promotes the early recognition and prevention of harmful legal consequences and thus, in particular,preventive and results-oriented legal advice. By studying modules on European and international law, especially during an optional semester abroad, as well as a possible internship semester abroad, the degree program also prepares students for a professional career atcompanies and organizations with international presence"
+    },
+    {
+        "query": "What will students acquire in the legal research Master's program Compliance, IT and Data Protection?",
+        "ground_truth": "In the legal research Master's program, you will acquire in-depth, state-of-the-art knowledge in the areas of compliance, IT compliance and data protection.This will prepare you for a career in research at the interface of law and new technologies. In companies and other organizations, you can apply your scientifically in-depth knowledge as a manager in data protection and compliance management"
+    },
+    {
+        "query" : "Is there an option for self-study in Compliance, IT and Data Protection program?",
+        "ground_truth" : "Inself-study, you will work on specially designed online modules with preparatory and follow-up learning materials at a time and place that suits you best. Video tutorials allow you to interact with your tutors."
+    },
+    {
+        "query" : "what are advantages of enrolling in the Bachelor in Computer Science program?",
+        "ground_truth" : "Attractive program contents (AI, IT Security, Data Science, IoT, ...) Top marks in university rankings (CHE,StudyCheck) Intensive contacts to local companies Modern campus Top-equipped labs Exciting student clubs(eSports, motor sports, environmental protection group and many more) Best prospects on the job market"
+    },
+    {
+        "query" : " In which areas will I acquire expertise after completing Master in Composite Materials?",
+        "ground_truth" : "In the Master's program in Composite Materials, you will acquire professional competencies in the areas of: Materials and properties, Composite structures, Surfaces and coatings, Technical fibers, as well as knowledge of the use and development of composite structures."
+    },
+    {
+        "query" : " What is the application process for Masters in Cross Cultural Nursing Practice",
+        "ground_truth" : "All applications must be done via ouronline application portal. The application period for winter intake is between April 15 and May 31. The application period for summer intake is between November 5 and November 30. An admission committee intensively scrutinizes all applications and decides about final admission. Admission letters will be issued in June for winter intake and December for summer semester intake."
+    },
+    {
+        "query" : "What is the language requirement for Cross Cultural Nursing Practice course",
+        "ground_truth" : "Advanced language skills in German, proven by official test score documents (e.g. Goethe, telc, ÖSD) -minimum level B2according to the CEFR (The Common European Framework of Reference for Languages). "
+    },
+    {
+        "query" : " Give me list of electives in Bachelor in Design and Mobility",
+        "ground_truth" : "Languages, History of art and design, History of locomotion, Photography Video/AV, Business basics for engineers,Project Management, Entrepreneurship/company formation, Current developments in industrial design, Marketing/Product Management"
+    },
+    {
+        "query" : "In how many sections is the Design and Mobility program divided into ?",
+        "ground_truth" : "The program is divided into Basic, Core and Specialization Sections. Each section lasts two teaching semesters at the university."
+    },
+    {
+        "query" : "Tell me something about the Professors of the course M.B.A. in Digitalization and Innovation?",
+        "ground_truth" : "Our professors (all with PhD) and lecturers are experts in their respective fields bringing together solid scientific understanding with valuable professional experience. Thus, the knowledge transfer from business life to the classroom is ensured."
+    },
+    {
+        "query" : " what are requirements for enrolling in the MBA in Digitalization and Innovation?",
+        "ground_truth" : "Academic requirements: A Bachelor’s degree(e.g. Engineering, Humanities, Social Sciences, Business Administration/Economics or Computer Science) or similar from an accredited university, at least 180 ECTS or equivalent (depending on the home country) One year of work experience Language requirements Proficiency in English, proven by eitherTOEFL minimum 90IELTS 6.5 or abovePTE Academic (Pearson) 60 or above TOEFL minimum 90 IELTS 6.5 or above PTE Academic (Pearson) 60 or above Basic language skills in German, proven by official test score documents (e.g. Goethe, telc, ÖSD) -minimum level A1according to the CEFR (The Common European Framework of Reference for Languages)."
+    },
+    {
+        "query" : " which skills are learned in the course Bachelor in Economic and Organizational Sociology?",
+        "ground_truth" : "How do you organize project work? How can you implement organizational changes even in the face of resistance? How can you integrate goals such as sustainability and a focus on the common good into your business practice? How do you put social innovations into practice, or what are the very practical implications of the digitalization of the working world?"
+    },
+  {
+    "query": "In the Bachelor in Economic Psychology B.Sc., what subjects are covered in the introductory stage?",
+    "ground_truth": "Human Resources and Organizational Management (E) Business Mathematics Statistics I Fundamentals of Business Law Basics Marketing and E-Commerce (E) General Psychology I Presentation and Moderation Introduction Digital Business (E) Introduction Accounting English I Introduction to Business Administration Fundamentals of Social Psychology General Psychology II"
+  },
+  {
+    "query": "What career paths can sociologists pursue according to the Bachelor in Economic and Organizational Sociology B.A. brochure?",
+    "ground_truth": "work in management consulting,manage social institutions and hospitals,work in personnel or organizational development,\n* advise in the field of marketing and social media, orwork in areas such as environmental protection, politics or lobbying."
+  },
+  {
+    "query": "What are the academic requirements for admission into the M.B.A. in Digitalization and Innovation?",
+    "ground_truth": "A Bachelor's degree (e.g. Engineering, Humanities, Social Sciences, Business Administration/Economics or Computer Science) or similar from an accredited university, at least 180 ECTS or equivalent (depending on the home country)\n* One year of work experience"
+  },
+  {
+    "query": "What academic degree is awarded after successful completion of the Master in Operational Excellence?",
+    "ground_truth": "After successful completion of the program, Hof University awards the academic degree Master of Business Administration and Engineering (M.B.A. and Eng.)."
+  },
+  {
+    "query": "What are the requirements regarding non-digitally created work for the Textile Design Bachelor's portfolio?",
+    "ground_truth": "Non-digitally created work must always be an original component of the portfolio; only three-dimensional and oversized work may be documented in the form of photographs."
+  },
+  {
+    "query": "What does the first step of the aptitude evaluation for the M.A. in Textile Design involve?",
+    "ground_truth": "In the first step, you will submit a self-written project proposal in English for a potential design project, along with a digital portfolio containing 7 to 12 original work samples that demonstrate your artistic skills and suitability for the program."
+  },
+  {
+    "query": "Besides a company, where can the internship for the Sustainable Engineering and Project Management program be completed?",
+    "ground_truth": "The internship can also be completed at the university's own research facilities, the Institute for Sustainable Water Systems (inwa), the Institute for Hydrogen and Energy Technology (iwe) or the Institute for Circular Economy of Bio: Polymers (ibp)."
+  },
+  {
+    "query": "What job titles are graduates of the Master in Sustainable Water Management and Engineering ready to work as?",
+    "ground_truth": "Product/Project Manager, Planning Engineer, Sustainability Manager, Technical Advisor / Consultant,  Researcher"
+  },
+  {
+    "query": "What are the core modules taught in the Smart Society Master's program?",
+    "ground_truth": " Ethics and Sustainability, Smart Mobility, Urban Development & Design, Smart Home, Education Management, Smart Administration, Intelligent Healthcare & Public Health, Digital Infrastructure, Smart Work & Smart Production,  Big Data & Artificial Intelligence"
+  },
+  {
+    "query": "What constitutes 'sufficient knowledge' in textile technology and chemistry for admission to the Master in Sustainable Textiles?",
+    "ground_truth": "Sufficient knowledge means that you achieved at least 60 credits (or their equivalent) in textile technology and 20 credits in (textile) chemistry during your first degree."
+  },
+  {
+    "query": "What specific first degrees (Bachelor's or Diploma) are required for admission to the Supply Chain Management Master's program?",
+    "ground_truth": "Business Management Industrial Engineering/Engineering or Business Information Systems"
+  },
+  {
+    "query": "What requirements are listed under 'What you bring with you' for the Nursing B.Sc. program?",
+    "ground_truth": "Successfully completed training as a nursing professional, ideally with professional experience Higher education entrance qualification, e.g., (technical) high school diploma, or a vocational training with at least 3 years of full-time professional experience For international students: Language proficiency in German (at least level B2, proven by official test score documents)"
+  },
+  {
+    "query": "What are the mandatory core modules in the Operational Excellence Master's program?",
+    "ground_truth": "Industry 4.0/Data Management, Smart Factory Planning and Engineering, Business Process Excellence, Supply Chain Management, Production Planning and Control, Quality Management, Innovation Management"
+  },
+  {
+    "query": "When does the aptitude test for the Bachelor's program in Textile Design usually take place?",
+    "ground_truth": "The aptitude test usually takes place in June at the Münchberg campus."
+  },
+  {
+    "query": "What is described as a unique feature of the M.B.A. and Eng. in Sustainable Engineering and Project Management regarding the second year?",
+    "ground_truth": "A unique feature of our M.B.A. and Eng. is that students spend the second year (third and fourth semester) doing a practical internship in industry (e.g. in project sales, purchasing or business development)."
+  },
+  {
+    "query": "Where do students in the Sustainable Water Management and Engineering program typically do their internship?",
+    "ground_truth": "Our M.Eng. students spend the third semester doing a practical internship in industry (e.g. manufacturer of equipment for waste water treatment plants) or in engineering offices (e.g. planning of remote controlled sewers or urban rainwater management)."
+  },
+  {
+    "query": "How are the lectures scheduled for the Smart Society Master's program?",
+    "ground_truth": "Your lectures take place in blocks every second weekend during the semester at our campus in Kronach."
+  },
+  {
+    "query": "What teaching techniques are used in the M.B.A. in General Management program?",
+    "ground_truth": "Our teaching methods include various modern methods such as cloud-based simulations, haptic management games and case studies."
+  },
+  {
+    "query": "Give details about third and fourth semesters in the M.B.A. in General Management?",
+    "ground_truth": "InternshipThe 3rd and 4th semester are dedicated to an internship (30 ECTS) in a company and a practical Master's Thesis (30 ECTS)."
+  },
+  {
+    "query": "What are the mandatory basic modules in the M.B.A. in General Management program?",
+    "ground_truth": "Basic modules (all mandatory): Applied Economics and Intercultural Management Strategic and Financial Framework German Language 1 German Language 2"
+  },
+  {
+    "query": "Which semesters are dedicated to the internship in the M.B.A. in General Management?",
+    "ground_truth": "The third and fourth semester is spent working as an intern in a company to gain more practical experience."
+  },
+  {
+    "query": "What are the mandatory basic modules in the M.B.A. in General Management program?",
+    "ground_truth": "Basic modules (all mandatory): Applied Economics and Intercultural Management Strategic and Financial Framework German Language 1 German Language 2"
+  },
+  {
+    "query": "What is the duration of the Master in Global Management program?",
+    "ground_truth": "The standard duration of the program is three semesters."
+  },{
+    "query": "What core focus does the Bachelor in Innovative Healthcare program emphasize?",
+    "ground_truth": "As part of your studies, we will train you to become a bridge builder between the interfaces of healthcare, informatics and engineering."
+  },
+  {
+    "query": "Which core modules are included in the health care area of the Innovative Healthcare program?",
+    "ground_truth": "Diagnostics in medicine and care Medicine Social and medical ethics Basics of Statistics and Epidemiology Health economics and evidence based practice Basics of social work and nursing Social security law Health education and psychology"
+  },
+  {
+    "query": "What technical competencies are taught in the health informatics core area of the Innovative Healthcare program?",
+    "ground_truth": "Computer science and medical informatics User Experience Design Internet and app technologies Information systems in Healthcare Telemedicine and telematics infrastructure IT Management Data analysis and business intelligence"
+  },
+  {
+    "query": "What is the standard duration of the Bachelor in Innovative Textiles program?",
+    "ground_truth": "The standard duration of this Bachelor‘s program is 7 semesters."
+  },
+  {
+    "query": "Which study phases are defined in the Bachelor in Innovative Textiles curriculum?",
+    "ground_truth": "Semester 1 und 2: Orientation phase Semester 3 bis 6: Core phase Semester 7: Practical phase"
+  }
+]

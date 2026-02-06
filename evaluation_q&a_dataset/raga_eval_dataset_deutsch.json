@@ -1,0 +1,177 @@
+[
+  {
+    "query": "Wann beginnt das Wintersemester für den Masterstudiengang AI-Driven Supply Chain Management?",
+    "ground_truth": "Bewerbungsfrist für das Wintersemester: 15. April bis 31. Mai (Non-EU) // 01. Mai bis 15. Juli (EU)"
+  },
+  {
+    "query": "Welche sprachlichen Voraussetzungen gelten für den Masterstudiengang AI-Driven Supply Chain Management?",
+    "ground_truth": "Nachweis von guten Englisch-Kenntnissen TOEFL-Test (mind. 90 Punkte) oder IELTS 6.5 oder mehr Nachweis von Deutsch-Kenntnissen (mindestens Niveau A1) bei ausländischen Bewerbern"
+  },
+  {
+    "query": "Welche akademischen Zulassungsvoraussetzungen gelten für den Masterstudiengang AI-Driven Supply Chain Management?",
+    "ground_truth": "Ein wirtschaftsorientierter Bachelorabschluss (z. B. in Betriebswirtschaft, Internationalem Management, Wirtschaftsingenieurwesen oder Wirtschaftsinformatik) einer anerkannten Hochschule. Mindestens 210 ECTS oder ein äquivalenter Abschluss, davon mindestens 110 ECTS in wirtschaftsbezogenen Fächern. Eine Mindestnote von 2,5 nach dem deutschen Notensystem(bitte legen Sie ein Diploma Supplementoder vergleichbare Unterlagen zur Erläuterung des Notensystems Ihrer Hochschule/Ihres Landesvor)."
+  },
+ {
+    "query": "Wer ist Studiengangsleiter für den Masterstudiengang Angewandte Psychologie?",
+    "ground_truth": "Studiengangleiter Zentr. Studienberatung Studiengangreferent Prof. Dr. Robin Müller Donnerstag: 13:00 - 14:00 Doreen Rustler Holger Edelmann"
+  },
+  {
+    "query": "Welche Pflichtmodule gibt es im Masterstudiengang Applied Research in Computer Science?",
+    "ground_truth": "Pflichtmodule New Technologies in Computer Science, Design Science Approaches in Computer Science Research, Behavioral Approaches in Computer Science Research, Designing and Developing Business Models, Projekt-Seminar, Forschungsprojekt"
+  },
+  {
+    "query": "In welchen Bereichen arbeiten Absolventinnen und Absolventen nach dem Bachelorstudium Kommunikationsdesign?",
+    "ground_truth": "Nach dem Studium arbeiten Sie z.B. in den Bereichen Kommunikation, Medien, Kultur, Forschung und Entwicklung sowie Öffentlichkeitsarbeit und Wirtschaft als: Interaction Designer:in, Grafik Designer:in, Ausstellungsgestalter:in, Art Director:in, Creative Director:in, UX Designer:in, Information Designer:in"
+  },
+  {
+    "query": "Was ist das Ziel des Masterstudiengangs Artificial Intelligence Aided Mobility Design?",
+    "ground_truth": "Der Masterstudiengang zielt darauf ab, vielseitige Designerinnen und Designer auszubilden, die erfolgreich an der Schnittstelle von Design und Technologie agieren. Durch den Einsatz KI-gestützter Tools im Designprozess erwerben die Studierenden ein ausgewogenes Kompetenzprofil, das sowohl kreative Visionen als auch technisches Verständnis fördert."
+  },
+  {
+    "query": "Was erwartet Studierende im Masterstudiengang Artificial Intelligence and Robotics?",
+    "ground_truth": "Mit unseren Modulen in den Bereichen Künstliche Intelligenz, v.a. Maschinellem Lernen und Deep Learning erlangen Sie das notwendige Wissen, um effektive KI-basierte Lösungen umzusetzen. Einen besonderen Fokus legen wir auf das Anwendungsgebiet der Robotik.Sie erlernen, wie Sieintelligente Robotik-Lösungen gestalten und vertiefen Ihre Fähigkeiten durch praktische Übungenin verschiedenen Modulen"
+  },
+  {
+    "query": "Wie ist das fünfte Semester im Bachelorstudiengang in Betriebswirtschaft aufgebaut?",
+    "ground_truth": "Nun haben Sie die Wahl. Sie können sich für eine Studienrichtung entscheiden, oder IhrStudienprogramm nach eigenen Interessen aus verschiedenen Studienrichtungen zusammenstellen. Außerdem absolvieren Sie ein komplettes Semester in einem Unternehmen oder einer OrganisationIhrer Wahl und sammeln Praxiserfahrung. Den Zeitpunkt dafür können Sie im Rahmen IhresVertiefungsstudiums selbst wählen (5. oder 7. Semester)."
+  },
+  {
+    "query": "Worauf liegt der Fokus des Masterstudiengangs Angewandte Psychologie?",
+    "ground_truth": "Im Fokus des Studiengangs Angewandte Psychologie stehen praktische Fragestellungen in Bezug auf menschliches Verhalten (u.a. Konsumentenverhalten, Verhalten in Gruppen, Führungsverhalten) aus der Wirtschaft, welche anwendungsbezogen und wissenschaftlich fundiert beantwortet werden."
+  },
+  {
+    "query": "Was vermittelt der Studiengang Betriebswirtschaft im Hinblick auf Kompetenzen?",
+    "ground_truth": "Deshalb kümmern wir uns auch um Ihreinterdisziplinären Kompetenzen wie z. B. umfassende Digitalisierungs-, IT und Nachhaltigkeits-Skills, Projektmanagementfähigkeiten durch die Integration fakultätsübergreifender undinternationaler Projekte in die Lehrmodule oder Präsentations- und Kommunikationsfähigkeitendurch modulübergreifende Kooperationen und Teamarbeit."
+  },
+  {
+    "query": "Woraus besteht das Studium Applied Research in Computer Science?",
+    "ground_truth": "Das Studium besteht aus der Mitarbeit in Forschungsprojekten der Forschungsgruppen am Institut für Wirtschaftsinformatik (iisys), speziellen Vorlesungen zu Forschungsmethodiken sowie Vorlesungen in Fächern der Informatik, Organisationswissenschaft und Wirtschaftsrecht.Der Fokus auf praktisches Arbeiten beschäftigt sich vor allem mitProgrammieren, Sozialkompetenztrainings in Meetings und bei Präsentationen sowie demkonzeptionellen Arbeiten während der Erstellen von Architekturmodellen, kriterienbasiertenVergleichen oder Literaturrecherchen zur Identifikation geeigneter Algorithmen undForschungsansätze"
+  },
+  {
+    "query": "Welche Qualifikation vermittelt der Bachelorstudiengang Wirtschaftsrecht?",
+    "ground_truth": "Der Studiengang Wirtschaftsrecht verleiht die fachliche und überfachliche Eignung für eine verantwortungsvolle, rechtsgestaltende und -beratende Tätigkeit in großen und mittelständischen Unternehmen, sowie in Verbänden und Organisationen. Das Studium fördert das frühzeitige Erkennen und Abwenden nachteiliger Rechtsfolgen und damit insbesondere die präventive und ergebnisorientierte Rechtsberatung. Durch das Studium von Modulen zum europäischen und internationalen Recht, vor allem während eines optionalen Auslandssemesters, sowie durch ein mögliches Praxissemester im Ausland, bereitet der Studiengang auch auf eine berufliche Laufbahn bei international tätigen Unternehmen und Organisationen vor"
+  },
+  {
+    "query": "Welche Qualifikation vermittelt der Bachelorstudiengang Wirtschaftsrecht?",
+    "ground_truth": "Der Studiengang Wirtschaftsrecht verleiht die fachliche und überfachliche Eignung für eine verantwortungsvolle, rechtsgestaltende und -beratende Tätigkeit in großen und mittelständischen Unternehmen, sowie in Verbänden und Organisationen."
+  },
+  {
+    "query": "Welche Kompetenzen erwerben Studierende im Masterstudiengang Compliance, IT und Datenschutz?",
+    "ground_truth": "Im interdisziplinären Projektmaster „Compliance, IT und Datenschutz“ erwerben Sie vertiefte Kenntnisse, die Sie unmittelbar in Projekten in der Praxis umsetzen können und werden so für eine Tätigkeit als Projektleiter/in oder als Fachexperte/in in Unternehmen und der Verwaltung befähigt."
+  },
+  {
+    "query": "Gibt es im Masterstudiengang Compliance, IT und Datenschutz Möglichkeiten zum Selbststudium?",
+    "ground_truth": "Im interdisziplinären Projektmaster „Compliance IT und Datenschutz“ kommt die Lernmethode Blended Learning zur Anwendung. Durch die Kombination von Präsenzveranstaltungen in Würzburg und selbstgesteuerten Online-Lerneinheiten werden die Vorteile aus Präsenz- und Selbststudium für eine qualitativ hochwertige Lehre bei größtmöglicher Flexibilität genutzt."
+  },
+  {
+    "query": "Welche Vorteile bietet der Bachelorstudiengang Computer Science?",
+    "ground_truth": "Attraktive und abwechslungsreiche Studieninhalte Exzellentes Betreuungsverhältnis Bestnoten in Hochschulrankings (CHE, StudyCheck) Intensive Kontakte zur beruflichen Praxis Moderner Campus Hervorragend ausgestattete Labore Spannende studentische Initiativen (eSports, Motorsport, Umweltinitiative u.v.m.) Beste Aussichten auf dem Arbeitsmarkt"
+  },
+  {
+    "query": "Welche Sprachvoraussetzungen gelten für den Masterstudiengang Cross Cultural Nursing Practice?",
+    "ground_truth": "Deutschkenntnisse B2-Niveau"
+  },
+  {
+    "query": "Welche Wahlmodule gibt es im Bachelorstudiengang Design und Mobilität?",
+    "ground_truth": "Wahlmodule: Sprachen Kunst- und Designgeschichte Geschichte der Fortbewegung Fotografie Bewegtbild/AV Betriebswirtschaftliche Grundlagen für Ingenieure Projektmanagement Entrepreneurship/Firmengründung Aktuelle Entwicklungen im Industriedesign Marketing/Produktmanagement"
+  },
+  {
+    "query": "In wie viele Studienabschnitte ist der Bachelorstudiengang Design und Mobilität gegliedert?",
+    "ground_truth": "Das Studium ist in Grundlagen-, Kern- und Spezialisierungsbereich unterteilt. Jeder Abschnitt dauert zwei Lehr-Semester."
+  },
+  {
+    "query": "Was zeichnet die Professorinnen und Professoren im MBA Digitalization and Innovation aus?",
+    "ground_truth": "Unsere Lehre integriert verschiedene moderne Methoden wie Cloud-basierte Simulationen, haptische Management-Spiele und Fallstudien."
+  },
+  {
+    "query": "Welche Voraussetzungen gelten für die Zulassung zum MBA Digitalization and Innovation?",
+    "ground_truth": "Ein Bachelor-Abschluss (z.B. Ingenieur-, Geistes-, Sozialwissenschaften, Betriebs-/Wirtschaftswissenschaften oder Informatik) oder ein vergleichbarer Abschluss von einer anerkannten Universität, mindestens 180 ECTS oder ein gleichwertiger Abschluss sowie ein Jahr Berufserfahrung. Beherrschung der englischen Sprache, nachgewiesen durch TOEFL mindestens 90, IELTS 6.5 oder höher oder PTE Academic (Pearson) 60 oder höher. Grundlegende Sprachkenntnisse in Deutsch, nachgewiesen durch offizielle Prüfungsunterlagen (z.B. Goethe, telc, ÖSD) - mindestens Niveau A1.nach dem Gemeinsamen EuropäischenReferenzrahmen für Sprachen (GER)."
+  },{
+    "query": "Welche Lehrmethoden werden im Studiengang M.B.A. General Management eingesetzt?",
+    "ground_truth": "In der Lehre setzen wir verschiedene moderne Methoden wie cloudbasierte Simulationen, haptische Planspiele und Fallstudien ein."
+  },
+  {
+    "query": "Was ist der Inhalt des dritten und vierten Semesters im Studiengang M.B.A. General Management?",
+    "ground_truth": "Das 3. und 4. Semester sind für ein Praktikum (30 ECTS) in einem Unternehmen und eine praktische Masterarbeit (30 ECTS) vorgesehen."
+  },
+  {
+    "query": "Welche verpflichtenden Basismodule umfasst der Studiengang M.B.A. General Management?",
+    "ground_truth": "Basismodule (verpflichtend): Applied Economics and Intercultural Management, Strategic and Financial Framework, German Language 1, German Language 2"
+  },
+  {
+    "query": "Welche Semester sind im Studiengang M.B.A. General Management für das Praktikum vorgesehen?",
+    "ground_truth": "Im dritten und vierten Semester absolvieren Sie ein Praktikum in einem Unternehmen, um weitere praktische Erfahrungen zu sammeln."
+  },
+  {
+    "query": "Wie lange dauert der Masterstudiengang Global Management?",
+    "ground_truth": "Die Regelstudienzeit beträgt drei Semester."
+  },
+  {
+    "query": "Welchen Schwerpunkt verfolgt der Bachelorstudiengang Innovative Gesundheitsversorgung?",
+    "ground_truth": "Im Rahmen des Studiums bilden wir Sie zur:zumBrückenbauer:inzwischen denSchnittstellenGesundheitsversorgung,InformatikundIngenieurwissenschaftenaus."
+  },
+  {
+    "query": "Welche Module umfasst der Bereich Gesundheitsversorgung im Studiengang Innovative Gesundheitsversorgung?",
+    "ground_truth": "Diagnostik in Medizin und Pflege, Medizin, Sozial- und Medizinethik, Grundlagen der Statistik und Epidemiologie, Gesundheitsökonomie und evidenzbasierte Praxis, Grundlagen der Sozialen Arbeit und Pflege, Sozialrecht, Gesundheitsbildung und Psychologie"
+  },
+  {
+    "query": "Welche technischen Kompetenzen werden im Bereich Gesundheitsinformatik des Studiengangs Innovative Gesundheitsversorgung vermittelt?",
+    "ground_truth": "Informatik und Medizinische Informatik, User Experience Design, Internet- und App-Technologien, Informationssysteme im Gesundheitswesen, Telemedizin und Telematik-Infrastruktur, IT-Management, Datenanalyse und Business Intelligence"
+  },
+  {
+    "query": "Wie lange ist die Regelstudienzeit des Bachelorstudiengangs Innovative Textilien?",
+    "ground_truth": "Die Regelstudienzeit für diesen Bachelor-Studiengang beträgt 7 Semester."
+  },
+  {
+    "query": "In welche Studienphasen ist der Bachelorstudiengang Innovative Textilien gegliedert?",
+    "ground_truth": "Semester 1 und 2: Orientierungsphase; Semester 3 bis 6: Kernphase; Semester 7: Praxisphase"
+  },
+  {
+    "query": "Welcher akademische Grad wird nach erfolgreichem Abschluss des Masterstudiengangs Operational Excellence verliehen?",
+    "ground_truth": "Nach erfolgreichem Abschluss des Studiums verleiht die Hochschule Hof den akademischen Grad Master of Business Administration and Engineering (M.B.A. and Eng.)."
+  },
+  {
+    "query": "Was beinhaltet der erste Schritt des Eignungsfeststellungsverfahrens für den Masterstudiengang Textildesign?",
+    "ground_truth": "Hierfür reichen Sie im ersten Schritt eine selbstverfasste Projektskizze in englischer Sprache für ein mögliches Designprojekt und ein digitales Portfolio mit mindestens 7 und höchstens 12 selbst erstellten gestalterischen Arbeitsproben ein, welche Aufschluss über die künstlerische Begabung und Eignung geben."
+  },
+  {
+    "query": "Wo kann das Praktikum im Studiengang Sustainable Engineering and Project Management neben einem Unternehmen absolviert werden?",
+    "ground_truth": "Das Praktikum kann auch an den hochschuleigenen Forschungseinrichtungen Institut für nachhaltige Wassersysteme (inwa), Institut für Wasserstoff- und Energietechnik (iwe) oder dem Institut für Kreislaufwirtschaft der Bio:Polymere (ibp) absolviert werden."
+  },
+  {
+    "query": "Was ist eine Besonderheit des zweiten Studienjahres im M.B.A. and Eng. Sustainable Engineering and Project Management?",
+    "ground_truth": "Eine Besonderheit unseres M.B.A. and Eng. ist, dass die Studierenden im zweiten Jahr (drittes und viertes Semester) ein Praktikum in der Industrie absolvieren."
+  },
+  {
+    "query": "Welche verpflichtenden Kernmodule umfasst der Masterstudiengang Operational Excellence?",
+    "ground_truth": "Industry 4.0 / Data Management, Smart Factory Planning and Engineering, Business Process Excellence, Supply Chain Management, Production Planning and Control, Quality Management, Innovation Management"
+  },
+  {
+    "query": "Wo absolvieren Studierende des Masterstudiengangs Sustainable Water Management and Engineering ihr Praktikum?",
+    "ground_truth": "Semester 3: Praktikum – Praktische Arbeitserfahrung – Masterarbeit in einem Unternehmen"
+  },
+  {
+    "query": "Für welche beruflichen Tätigkeiten sind Absolventinnen und Absolventen des Masterstudiengangs Sustainable Water Management and Engineering qualifiziert?",
+    "ground_truth": "Ihre Einstiegsmöglichkeiten sind vielseitig, u.a.: Produkt-/Projektmanagement, Planungsingenieurwesen, Management für Nachhaltigkeit, Technische Beratung / Consultant, Forschung."
+  },  
+  {
+    "query": "Welche Kernmodule werden im Masterstudiengang Smart Society gelehrt?",
+    "ground_truth": "Ethik und Nachhaltigkeit, Smarte Mobilität, Städtebau & Ortsplanung, Smart Home, Bildungsmanagement, Smarte Verwaltung, Intelligente Gesundheitsversorgung & Public Health, Digitale Infrastruktur, Smart Work & Smarte Produktion, Big Data & Künstliche Intelligenz"
+  },  
+  {
+    "query": "Wie sind die Lehrveranstaltungen im Masterstudiengang Smart Society organisiert?",
+    "ground_truth": "Die Vorlesungen finden während der Semesterzeit geblockt am Wochenende am Campus Kronach sowie ergänzend an Nachmittagen unter der Woche als Online-Vorlesungen statt."
+  },
+  {
+    "query": "Was gilt als ausreichende Kenntnisse in Textiltechnik und Chemie für die Zulassung zum Masterstudiengang Sustainable Textiles?",
+    "ground_truth": "Ausreichende Kenntnisse liegen vor, wenn im Erststudium mindestens 60 Leistungspunkte (oder eine entsprechende Anzahl) in Textiltechnik und 20 Leistungspunkte in (textiler) Chemie erbracht wurden."
+  },
+  {
+    "query": "Welche Voraussetzungen sind unter „Das bringen Sie mit“ für den Bachelorstudiengang Pflege B.Sc. genannt?",
+    "ground_truth": "erfolgreich abgeschlossene Ausbildung im Bereich Pflegefachperson*, idealerweise mit Berufserfahrung sowie Hochschulzugangsberechtigung, z. B. (Fach-)Abitur oder eine Berufsausbildung mit mind. 3-jähriger hauptberuflicher Berufspraxis"
+  },
+  {
+  "query": "Welche Erstabschlüsse sind für die Zulassung zum Masterstudiengang Supply Chain Management und Logistik erforderlich?",
+  "ground_truth": "Qualifikationsvoraussetzungen für die Zulassung zum Masterstudiengang Logistik sind: Abgeschlossenes Hochschulstudium mit einer Abschlussnote 2,5 oder besser; bei besonderer beruflicher Qualifikation und zusätzlicher Praxiserfahrung Notenbonus bis 0,5 möglich. Erststudium muss 210 ECTS umfassen. Bei 180 ECTS sind Zusatzleistungen notwendig (kann in Hof erbracht werden). Nachweis von Grundkenntnissen in Betriebswirtschaftslehre (5 ECTS), Logistik (10 ECTS) und Informationsverarbeitung (5 ECTS)."
+  }
+]
