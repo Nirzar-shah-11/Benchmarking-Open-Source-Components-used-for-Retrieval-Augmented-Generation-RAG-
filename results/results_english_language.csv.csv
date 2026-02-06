@@ -1,0 +1,60 @@
+FAISS;Indexing Time;total_retrieval_time;total_generation_time;Semantic MRR;Context_Precision;Context_Recall;faithfulness;Semantic Similarity;Vectorstore_size;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";0.6909;1.0231;47.1676;0.43;0.6667;0.8080;0.8065;0.4202;Size: 1.56 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";0.7265;1.0353;46.9043;0.36;0.5641;0.6724;0.8238;0.3103;Size: 1.56 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";0.7413;0.7643;38.5309;0.27;0.5897;0.7266;0.8583;0.1905;Size: 1.923 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";2.3869;2.3980;50.4205;1.0;0.7660;0.8401;0.8510;0.8448;Size: 3.3704 MB;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";0.7079;1.0912;71.3887;0.43;0.6587;0.8167;0.8992;0.5314;Size: 1.56 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";0.7599;1.0554;69.6112;0.36;0.5545;0.6788;0.8070;0.5275;Size: 1.56 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";0.7567;0.79472;59.5941;0.27;0.5897;0.6923;0.8248;0.3532;Size: 1.923 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";2.3979;2.4473;70.7174;1.0;0.7708;0.8465;0.9221;0.8606;Size: 3.3704 MB;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";0.6900;1.0721;459.0984;0.43;0.6538;0.7904;0.8721;0.5268;Size: 1.561 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";0.7351;1.06477;483.8181;0.36;0.5545;0.6740;0.8287;0.5069;Size: 1.561 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";0.75032;0.79967;431.3752;0.27;0.6074;0.7218;0.8958;0.3537;Size: 1.923 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";2.40156;2.4187;498.0657;1.0;0.7564;0.8471;0.8768;0.8532;Size: 3.3704 MB;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+ChromaDB;Indexing Time;total_retrieval_time;total_generation_time;;Context_Precision;Context_Recall;faithfulness;Semantic Similarity;Vectorstore_size;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";3.0899;1.3213;51.9050;0.43;0.6490;0.7936;0.8325;0.4202;Size: 6.3790 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";3.2009;1.3378;44.7239;0.36;0.5673;0.6853;0.8844;0.3103;Size: 6.3946 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";3.0710;1.0103;39.4444;0.27;0.5897;0.7035;0.8634;0.1905;Size: 6.4200 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “meta-llama/Llama-3.1-8B-Instruct”";4.9146;2.7536;54.6023;1.0;0.7580;0.8304;0.8321;0.8442;Size: 7.3185 MB;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";3.1146;1.3537;73.7476;0.43;0.6282;0.8000;0.8866;0.5314;Size: 6.3517 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";2.9240;1.3378;69.7055;0.36;0.5561;0.6788;0.8734;0.5275;Size: 6.3673 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";3.1571;1.0557;68.6418;0.27;0.5801;0.6987;0.7904;0.3532;Size: 6.4317 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “mistralai/Ministral-8B-Instruct-2410”";5.134;2.6897;72.4574;1.0;0.7869;0.8513;0.8599;0.8614;Size: 7.3302 MB;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"embedding_model = ""sentence-transformers/all-MiniLM-L12-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";3.1930;1.3747;403.5906;0.43;0.6506;0.8000;0.8678;0.5268;Size: 6.3634 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";3.277;1.3543;428.2732;0.36;0.5529;0.6740;0.8864;0.5069;Size: 6.3634 MB;;;;;;;;;
+"embedding_model = ""sentence-transformers/distiluse-base-multilingual-cased-v2""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";3.1332;1.0866;406.0931;0.27;0.5817;0.7106;0.8596;0.3537;Size: 6.4317 MB;;;;;;;;;
+"embedding_model = ""intfloat/multilingual-e5-large""
+LLM = “deepseek-ai/DeepSeek-R1-Distill-Llama-8B”";5.0498;2.7163;409.6206;1.0;0.7564;0.8465;0.8987;0.8547;Size: 7.3107 MB;;;;;;;;;
