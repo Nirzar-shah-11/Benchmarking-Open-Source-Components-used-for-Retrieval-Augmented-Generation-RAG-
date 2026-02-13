@@ -165,11 +165,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 License
-
-Open-source license as specified in the repository.
-
----
 
 **Author:** Nirzar Shah  
 **Domain:** AI · NLP · Retrieval-Augmented Generation
