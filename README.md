@@ -1,51 +1,175 @@
-# Benchmarking Open-Source Components for Retrieval-Augmented Generation (RAG)
 
-This repository provides a standardized RAG pipeline for benchmarking open-source components. It covers document chunking, embedding generation, vector store ingestion, and evaluation of dense retrievers paired with generative models.
+# 📊 Benchmarking Open-Source Components for Retrieval-Augmented Generation (RAG)
 
-Repository contents
+This repository presents a comprehensive benchmarking study of **open-source components used in Retrieval-Augmented Generation (RAG)** systems.  
+The project evaluates **retrieval quality, generation quality, and efficiency trade-offs** across different embeddings, vector databases, and LLMs using **English and German datasets**.
 
-- english_dataset: English source documents used for experiments.
-- german_dataset: German source documents used for experiments.
-- multi_document_RAG: Multi-document RAG notebooks
-	- [Chroma_RAGAS_Multidocument_RAG_With_Generation.ipynb](multi_document_RAG/Chroma_RAGAS_Multidocument_RAG_With_Generation.ipynb)
-	- [FAISS_RAGAS_Multidocument_RAG_With_Generation.ipynb](multi_document_RAG/FAISS_RAGAS_Multidocument_RAG_With_Generation.ipynb)
-- single_document_RAG: Single-document RAG example
-	- [single_document_rag.ipynb](single_document_RAG/single_document_rag.ipynb)
-- web_scraper: Scraping notebooks for building datasets
-	- [generalised_webpage_scraper.ipynb](web_scraper/generalised_webpage_scraper.ipynb)
-	- [web_scraper_for_xml_file.ipynb](web_scraper/web_scraper_for_xml_file.ipynb)
-- evaluation_q&a_dataset: Q&A evaluation datasets
-	- [raga_eval_dataset_english.json](evaluation_q&a_dataset/raga_eval_dataset_english.json)
-	- [raga_eval_dataset_deutsch.json](evaluation_q&a_dataset/raga_eval_dataset_deutsch.json)
-- results: CSV outputs from previous runs
+---
 
-Quick start
+## 🧠 Project Motivation
 
-1. Create and activate a Python environment (recommended Python 3.10+). Example with `venv`:
+Retrieval-Augmented Generation (RAG) is a key technique to ground Large Language Models (LLMs) in external knowledge.  
+However, design choices such as **embedding models**, **vector stores**, and **LLMs** significantly affect:
 
-	 python3 -m venv .venv
-	 source .venv/bin/activate
+- Retrieval accuracy
+- Hallucination rate
+- Latency
+- Multilingual robustness
 
-2. Install dependencies:
+This repository provides a **reproducible benchmarking framework** to analyze these trade-offs in a systematic way.
 
-	 pip install -r requirements.txt
+---
 
-3. Start Jupyter and open the notebook you want to run:
+## 📁 Repository Structure
 
-	 pip install "jupyterlab"
-	 jupyter lab
+```
+Benchmarking-Open-Source-Components-used-for-RAG/
+├── README.md              # Project overview & methodology
+├── RESULTS.md             # Detailed benchmark results & analysis
+├── english_dataset/
+├── german_dataset/
+├── single_document_RAG/
+├── multi_document_RAG/
+├── evaluation_q&a_dataset/
+├── web_scraper/
+├── results/               # CSV files with raw metrics
+├── requirements.txt
+```
 
-4. Put your documents into `english_dataset/` or `german_dataset/` and run the cells in the preprocessing and RAG notebooks.
+📊 **Detailed experimental results and plots are documented in [RESULTS.md](RESULTS.md).**
 
-Notes and recommendations
+---
 
-- The notebooks expect you to configure any API keys or model endpoints inside the notebook cells or via environment variables.
-- Use the `multi_document_RAG` notebooks to compare different vector stores (Chroma, FAISS) and retrieval strategies.
-- Evaluation datasets are in `evaluation_q&a_dataset/` and can be used to reproduce the reported metrics.
+## 📊 Evaluation Metrics
 
-Dependencies
+### 🔍 Retrieval Metrics
+- **Semantic MRR**
+- **Context Recall**
+- **Context Precision**
 
-- See `requirements.txt` for the main Python packages used in the project. Install with:
+These metrics evaluate retrieval ranking quality and coverage (Recall@k-style evaluation).
 
-	pip install -r requirements.txt
+---
 
+### ✍️ Generation Metrics
+- **Faithfulness** – Measures hallucination resistance
+- **Semantic Similarity** – Measures answer alignment with reference responses
+
+---
+
+### 🧠 RAGAS-Style Metrics
+- Faithfulness
+- Context Precision
+- Context Recall
+- Semantic MRR
+
+All metrics are normalized to **[0, 1]** (higher is better).
+
+---
+
+## ⏱️ Efficiency Metrics
+- Retrieval Time (seconds)
+- Generation Time (seconds)
+
+Used to analyze **quality vs latency trade-offs**.
+
+---
+
+## 🧪 Experimental Setup (Summary)
+
+- **Embeddings:** MiniLM, Paraphrase, DistilUSE, E5-Large  
+- **Vector Stores:** FAISS, ChromaDB  
+- **LLMs:** LLaMA-3.1-8B, Ministral, DeepSeek  
+- **Datasets:** English & German  
+
+---
+
+## 🏆 Key Takeaways
+
+✔ **Best Overall Quality:** E5-Large + ChromaDB  
+✔ **Best Latency-Optimized Pipeline:** MiniLM + FAISS  
+✔ **Best Multilingual Embedding:** E5-Large  
+✔ **Best Production Trade-off:** MiniLM + FAISS  
+
+Full quantitative analysis, plots, and discussions are available in **[RESULTS.md](RESULTS.md)**.
+
+---
+
+
+
+---
+
+## 🚀 Quick Start
+
+Create and activate a Python environment (recommended **Python 3.10+**).
+
+Example using `venv`:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Start Jupyter Lab
+
+```bash
+pip install jupyterlab
+jupyter lab
+```
+
+Open the notebook you want to run from:
+- `single_document_RAG/`
+- `multi_document_RAG/`
+
+### Prepare datasets
+
+- Place your documents into:
+  - `english_dataset/` or
+  - `german_dataset/`
+- Run the preprocessing cells first, followed by the RAG pipeline cells in the notebooks.
+
+---
+
+## 📝 Notes & Recommendations
+
+- Configure **API keys or model endpoints** inside notebook cells or via environment variables.
+- Use **multi_document_RAG** notebooks to compare:
+  - Vector stores (FAISS vs ChromaDB)
+  - Retrieval strategies
+- Evaluation datasets are available in `evaluation_q&a_dataset/` and can be used to **reproduce reported metrics**.
+- For detailed quantitative analysis and plots, see **[RESULTS.md](RESULTS.md)**.
+
+---
+
+## 📦 Dependencies
+
+Main Python dependencies are listed in `requirements.txt`.
+
+Install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
+## 🔁 Reproducibility
+
+- All raw numerical results are stored in `/results` as CSV files.
+- Plots are generated using Matplotlib.
+- Experiments are fully reproducible using the provided notebooks.
+
+---
+
+## 📄 License
+
+Open-source license as specified in the repository.
+
+---
+
+**Author:** Nirzar Shah  
+**Domain:** AI · NLP · Retrieval-Augmented Generation
